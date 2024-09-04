@@ -39,7 +39,7 @@ export default function RootLayout({ children }) {
         <Footer />
         </main>
         <div className=' fixed z-50 bottom-5 right-5'>
-          <a href="https://wa.me/8166301570?text=Hello">
+          <a href="https://wa.me/7053338151?text=Hello">
           <Image src={whatsapp} width={60} height={60}/>
           </a>
         </div>
